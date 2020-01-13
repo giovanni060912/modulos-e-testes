@@ -1,0 +1,17 @@
+{
+  "name": "juros",
+  "version": "1.0.0",
+  "description": "calculadora de juros",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "giovanni santos",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "jest":{
+    "collectCoverage":true
+  }
+}
